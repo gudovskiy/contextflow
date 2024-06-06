@@ -1,0 +1,12 @@
+name: contextflow
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.8
+  - torchvision=0.15.2
+  - cudatoolkit=12.1
+  - pytorch=2.0.1
+  - cython
+  - matplotlib
+  - scikit-learn
