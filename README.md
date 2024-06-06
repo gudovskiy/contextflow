@@ -1,4 +1,5 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/contextflow-generalist-specialist-flow-based/time-series-anomaly-detection-on-atms-fault)](https://paperswithcode.com/sota/time-series-anomaly-detection-on-atms-fault?p=contextflow-generalist-specialist-flow-based)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/contextflow-generalist-specialist-flow-based/unsupervised-anomaly-detection-on-smap)](https://paperswithcode.com/sota/unsupervised-anomaly-detection-on-smap?p=contextflow-generalist-specialist-flow-based)
 
 # ContextFlow++: Generalist-Specialist Flow-based Generative Models with Mixed-Variable Context Encoding
 
