@@ -14,10 +14,11 @@ We propose ContextFlow++ approach to overcome these limitations using an additiv
 If you like our [UAI24 paper](https://arxiv.org/abs/2406.00578) or code, please cite it using the following BibTex:
 ```
 @inproceedings{contextflow,
-	title = {ContextFlow++: Generalist-Specialist Flow-based Generative Models with Mixed-Variable Context Encoding},
-	author = {Gudovskiy, Denis and Okuno, Tomoyuki and Nakata, Yohei},
-	booktitle = {Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI)},
-	year = {2024}
+title={ContextFlow++: Generalist-Specialist Flow-based Generative Models with Mixed-variable Context Encoding},
+author={Denis A Gudovskiy and Tomoyuki Okuno and Yohei Nakata},
+booktitle={The 40th Conference on Uncertainty in Artificial Intelligence (UAI)},
+year={2024},
+url={https://openreview.net/forum?id=06nlLSkuuu}
 }
 ```
 
